@@ -1,4 +1,4 @@
-PLC Communication Windows App (SLMP Protocol)
+**PLC Communication Windows App (SLMP Protocol)**
 This Windows Forms application is developed in C# to enable communication with Mitsubishi PLCs using the SLMP (Seamless Message Protocol) over the default port 12289. The application facilitates seamless interaction between a PC and PLC for data exchange, making it ideal for applications that require real-time data reading and writing.
 
 Key Features

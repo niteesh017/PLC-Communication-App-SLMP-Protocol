@@ -1,7 +1,7 @@
 **PLC Communication Windows App (SLMP Protocol)**
 This Windows Forms application is developed in C# to enable communication with Mitsubishi PLCs using the SLMP (Seamless Message Protocol) over the default port 12289. The application facilitates seamless interaction between a PC and PLC for data exchange, making it ideal for applications that require real-time data reading and writing.
 
-Key Features
+**Key Features**
 Read Operations: The application allows you to retrieve data from various PLC registers. This feature is useful for monitoring real-time data such as sensor values or system status from the PLC.
 Write Operations: It supports writing values to the PLC registers, allowing you to control or modify system parameters remotely from your PC.
 Real-Time Communication Monitoring: The results of read and write operations are displayed instantly, providing real-time feedback on the status of the PLC communication. This ensures users can verify operations are successful and troubleshoot issues efficiently.

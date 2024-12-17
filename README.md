@@ -20,7 +20,7 @@ Setup Instructions
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/niteesh017/plc-slmp-communication.git  
+git clone https://github.com/niteesh017/PLC-Communication-App-SLMP-Protocol-.git  
 Open in Visual Studio: After cloning, open the solution in Visual Studio.
 Build and Run: Build the project and run the application.
 Requirements
